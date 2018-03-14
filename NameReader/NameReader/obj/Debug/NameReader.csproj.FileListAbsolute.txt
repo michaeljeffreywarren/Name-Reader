@@ -1,0 +1,7 @@
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\bin\Debug\NameReader.exe.config
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\bin\Debug\NameReader.exe
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\bin\Debug\NameReader.pdb
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\obj\Debug\NameReader.csproj.CoreCompileInputs.cache
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\obj\Debug\NameReader.exe
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\obj\Debug\NameReader.pdb
+C:\Users\Michael Warren\source\repos\NameReader\NameReader\obj\Debug\NameReader.csprojResolveAssemblyReference.cache
